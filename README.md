@@ -25,12 +25,13 @@
 
 * Result
 
-10%의 유병률을 가진 당뇨병을 앓고 있는 30대가 가장 앓을 확률이 높은 만성질병은 이상지질혈증(Hypercholesterolemia)임을 k-NN을 적용해 발견하였다.
+10%의 유병률을 가진 당뇨병을 앓고 있는 30대가 가장 앓을 확률이 높은 만성질병은 이상지질혈증(Hypercholesterolemia)임을 k-NN을 적용해 발견하였다. 이처럼 환자가 앓고 있는 병을 알고 있으면 이와 관계하여 앓을 확률이 높은 질병을 구할 수 있다는 것을 보여준다.
 
 ![output](./img/output.JPG)
 
 
 ![Figure](./img/Figure_2.png)
+
 diabetes = blue
 
 hypertension = red
