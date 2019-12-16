@@ -24,9 +24,16 @@
 우리가 구상중인 서비스가 잘 개발되었다면 특정 질환과 가장 가까운 거리의 분포에 위치한 질환을 도출할 것이다. 사용자가 앓고 있는 질환과 알고리즘을 통해 도출된 질환과의 거리를 확인하고 관계성을 입증함으로써 우리의 목표 구현성을 평가하고 분석할 예정이다.
 
 * Result
+
 10%의 유병률을 가진 당뇨병을 앓고 있는 30대가 가장 앓을 확률이 높은 만성질병은 이상지질혈증(Hypercholesterolemia)임을 k-NN을 적용해 발견하였다.
 
 ![output](./img/output.JPG)
 
 
 ![Figure](./img/Figure_2.png)
+diabetes = blue
+hypertension = red
+hypercholesterolemia = purple
+hypertriglyceridemia = orange
+chronic kidney disease =  yellow
+user_input= green
