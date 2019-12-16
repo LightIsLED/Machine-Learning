@@ -32,8 +32,13 @@
 
 ![Figure](./img/Figure_2.png)
 diabetes = blue
+
 hypertension = red
+
 hypercholesterolemia = purple
+
 hypertriglyceridemia = orange
+
 chronic kidney disease =  yellow
+
 user_input= green
